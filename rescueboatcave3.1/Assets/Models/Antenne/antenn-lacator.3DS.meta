@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 0bbeb3626bbddaf45af64852f9afd676
+timeCreated: 1515687573
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: antenna
+    100004: base
+    100006: base0
+    100008: dish
+    100010: dish0
+    100012: door1
+    100014: door2
+    100016: door3
+    100018: end
+    100020: forks
+    100022: forks0
+    100024: handle1
+    100026: handle2
+    100028: handle3
+    100030: handle4
+    100032: handle5
+    100034: handle6
+    100036: hingepin1
+    100038: hingepin2
+    100040: hingepin3
+    100042: hingepin4
+    100044: hingepin5
+    100046: hingepin6
+    100048: joiner
+    100050: motor
+    100052: seal1
+    100054: seal2
+    100056: seal3
+    100058: tubering1
+    100060: tubewire
+    100062: wire1
+    100064: wire2
+    100066: wire3
+    100068: wire5
+    100070: wire6
+    400000: //RootNode
+    400002: antenna
+    400004: base
+    400006: base0
+    400008: dish
+    400010: dish0
+    400012: door1
+    400014: door2
+    400016: door3
+    400018: end
+    400020: forks
+    400022: forks0
+    400024: handle1
+    400026: handle2
+    400028: handle3
+    400030: handle4
+    400032: handle5
+    400034: handle6
+    400036: hingepin1
+    400038: hingepin2
+    400040: hingepin3
+    400042: hingepin4
+    400044: hingepin5
+    400046: hingepin6
+    400048: joiner
+    400050: motor
+    400052: seal1
+    400054: seal2
+    400056: seal3
+    400058: tubering1
+    400060: tubewire
+    400062: wire1
+    400064: wire2
+    400066: wire3
+    400068: wire5
+    400070: wire6
+    2300000: base0
+    2300002: dish0
+    2300004: door1
+    2300006: door2
+    2300008: door3
+    2300010: end
+    2300012: forks0
+    2300014: handle1
+    2300016: handle2
+    2300018: handle3
+    2300020: handle4
+    2300022: handle5
+    2300024: handle6
+    2300026: hingepin1
+    2300028: hingepin2
+    2300030: hingepin3
+    2300032: hingepin4
+    2300034: hingepin5
+    2300036: hingepin6
+    2300038: joiner
+    2300040: motor
+    2300042: seal1
+    2300044: seal2
+    2300046: seal3
+    2300048: tubering1
+    2300050: tubewire
+    2300052: wire1
+    2300054: wire2
+    2300056: wire3
+    2300058: wire5
+    2300060: wire6
+    3300000: base0
+    3300002: dish0
+    3300004: door1
+    3300006: door2
+    3300008: door3
+    3300010: end
+    3300012: forks0
+    3300014: handle1
+    3300016: handle2
+    3300018: handle3
+    3300020: handle4
+    3300022: handle5
+    3300024: handle6
+    3300026: hingepin1
+    3300028: hingepin2
+    3300030: hingepin3
+    3300032: hingepin4
+    3300034: hingepin5
+    3300036: hingepin6
+    3300038: joiner
+    3300040: motor
+    3300042: seal1
+    3300044: seal2
+    3300046: seal3
+    3300048: tubering1
+    3300050: tubewire
+    3300052: wire1
+    3300054: wire2
+    3300056: wire3
+    3300058: wire5
+    3300060: wire6
+    4300000: seal2
+    4300002: handle6
+    4300004: hingepin6
+    4300006: seal3
+    4300008: hingepin5
+    4300010: door2
+    4300012: handle4
+    4300014: handle3
+    4300016: hingepin4
+    4300018: handle5
+    4300020: hingepin3
+    4300022: door1
+    4300024: handle2
+    4300026: handle1
+    4300028: hingepin2
+    4300030: seal1
+    4300032: hingepin1
+    4300034: door3
+    4300036: base0
+    4300038: end
+    4300040: wire3
+    4300042: wire2
+    4300044: joiner
+    4300046: wire6
+    4300048: forks0
+    4300050: motor
+    4300052: tubering1
+    4300054: wire1
+    4300056: wire5
+    4300058: dish0
+    4300060: tubewire
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: f5e156dd6edd1494f83ee8c7698fde1f
+timeCreated: 1511285776
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: ceiling
+    100004: Cube
+    100006: Cube.001
+    100008: Cube.002
+    100010: Cube.003
+    100012: Cube.004
+    100014: floor
+    100016: front
+    100018: frontwindow
+    100020: left
+    100022: leftwindow
+    100024: Point
+    100026: Point.001
+    100028: right
+    100030: rightwindow
+    100032: //RootNode
+    100034: framepiece
+    100036: framepiece.001
+    100038: framepiece.002
+    100040: framepiece.003
+    100042: framepiece.004
+    400000: back
+    400002: ceiling
+    400004: Cube
+    400006: Cube.001
+    400008: Cube.002
+    400010: Cube.003
+    400012: Cube.004
+    400014: floor
+    400016: front
+    400018: frontwindow
+    400020: left
+    400022: leftwindow
+    400024: Point
+    400026: Point.001
+    400028: right
+    400030: rightwindow
+    400032: //RootNode
+    400034: framepiece
+    400036: framepiece.001
+    400038: framepiece.002
+    400040: framepiece.003
+    400042: framepiece.004
+    2300000: back
+    2300002: ceiling
+    2300004: Cube
+    2300006: Cube.001
+    2300008: Cube.002
+    2300010: Cube.003
+    2300012: Cube.004
+    2300014: floor
+    2300016: front
+    2300018: frontwindow
+    2300020: left
+    2300022: leftwindow
+    2300024: right
+    2300026: rightwindow
+    2300028: framepiece
+    2300030: framepiece.001
+    2300032: framepiece.002
+    2300034: framepiece.003
+    2300036: framepiece.004
+    3300000: back
+    3300002: ceiling
+    3300004: Cube
+    3300006: Cube.001
+    3300008: Cube.002
+    3300010: Cube.003
+    3300012: Cube.004
+    3300014: floor
+    3300016: front
+    3300018: frontwindow
+    3300020: left
+    3300022: leftwindow
+    3300024: right
+    3300026: rightwindow
+    3300028: framepiece
+    3300030: framepiece.001
+    3300032: framepiece.002
+    3300034: framepiece.003
+    3300036: framepiece.004
+    4300000: Cube
+    4300002: back
+    4300004: frontwindow
+    4300006: right
+    4300008: left
+    4300010: ceiling
+    4300012: leftwindow
+    4300014: rightwindow
+    4300016: floor
+    4300018: front
+    4300020: Cube.001
+    4300022: Cube.002
+    4300024: Cube.003
+    4300026: Cube.004
+    4300028: framepiece
+    4300030: framepiece.001
+    4300032: framepiece.002
+    4300034: framepiece.003
+    4300036: framepiece.004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
